@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/Football.activities/Football.activities.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Football.sandbox/Football.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Football/Football.mpl" folder="" />
+    </projectModules>
+  </component>
+</project>
